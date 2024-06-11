@@ -4,6 +4,9 @@
   font-weight: 300;
 }
 
+.Meaning .definition {
+  font-size: 16px;
+}
 .Meaning .example {
   font-size: 16px;
   opacity: 0.7;
